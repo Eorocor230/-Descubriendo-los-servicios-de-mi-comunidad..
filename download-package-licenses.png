@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-movof177-lxg03dnkv">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>PRODUCTO FINAL | Descubrimos los servicios de nuestra comunidad </title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+<script src="../libs/SCORM_API_wrapper.js"></script>
+<script src="../libs/SCOFunctions.js"></script>
+</head>
+<body class="exe-export exe-scorm exe-scorm12" onload="loadPage()" onunload="unloadPage()" onbeforeunload="unloadPage()">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><main id="page-movof177-lxg03dnkv" class="page"> 
+<header class="main-header">
+<div class="package-header"><p class="package-title">Descubrimos los servicios de nuestra comunidad </p>
+<p class="package-subtitle">TEMÁTICA: CONOCIMIENTO DEL ENTORNO CERCANO, CONCRETAMENTE LOS SERVICIOS DE LA COMUNIDAD </p></div>
+<div class="page-header"><h1 class="page-title">PRODUCTO FINAL</h1></div>
+</header><div id="page-content-page-movof177-lxg03dnkv" class="page-content">
+<article id="block-1777384364667-tdrhygc0q" class="box">
+<header class="box-head">
+<div class="box-icon exe-icon">
+<img src="../theme/icons/reflection.png" alt="">
+</div>
+<h1 class="box-title">Kahoot!</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1777384364661-530u1xe2s" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1777384364661-530u1xe2s&quot;}">
+<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title=""></span></dt><dd></dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>3-4 alumnos</dd></div></dl><p>Hola chicos y chicas,</p>
+<p>Hoy con toda la información que vamos recopilando, conoceremos cual será nuestro producto final. Será la construcción de un Kahoot! en la que deberéis plasmar unas preguntas dinámicas y divertidas que harán pensar a vuestros compañeros y compañeras. </p>
+<p>Para ello, aún nos queda conocer un poco más este tema y poder afianzar bien los conceptos e información para poder sacarle un gran jugo a esta herramienta tan divertida.</p>
+<p>¡Allá vamos!</p></div>
+</div>
+</div>
+</div>
+</article>
+</div></main>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">Creative Commons: Reconocimiento - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
